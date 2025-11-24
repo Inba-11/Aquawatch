@@ -1,0 +1,111 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    /* Water-themed color system */
+    --background: 210 40% 98%;
+    --foreground: 215 25% 27%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 215 25% 27%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 215 25% 27%;
+
+    /* Ocean blue primary */
+    --primary: 199 89% 48%;
+    --primary-foreground: 0 0% 100%;
+    --primary-glow: 199 89% 68%;
+
+    /* Teal accent */
+    --secondary: 174 72% 56%;
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 210 40% 96%;
+    --muted-foreground: 215 16% 47%;
+
+    --accent: 174 72% 56%;
+    --accent-foreground: 0 0% 100%;
+
+    /* Status colors */
+    --success: 142 76% 36%;
+    --success-foreground: 0 0% 100%;
+    
+    --warning: 38 92% 50%;
+    --warning-foreground: 0 0% 100%;
+    
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 214 32% 91%;
+    --input: 214 32% 91%;
+    --ring: 199 89% 48%;
+
+    --radius: 1rem;
+
+    /* Water gradients */
+    --gradient-primary: linear-gradient(135deg, hsl(199 89% 48%), hsl(174 72% 56%));
+    --gradient-ocean: linear-gradient(180deg, hsl(199 89% 48%), hsl(199 89% 35%));
+    --gradient-wave: linear-gradient(135deg, hsl(199 89% 98%), hsl(174 72% 96%));
+    
+    /* Animations */
+    --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    
+    /* Shadows */
+    --shadow-glow: 0 0 40px hsl(199 89% 48% / 0.3);
+    --shadow-card: 0 4px 20px hsl(199 20% 20% / 0.08);
+  }
+
+  .dark {
+    --background: 215 28% 17%;
+    --foreground: 210 40% 98%;
+
+    --card: 215 28% 20%;
+    --card-foreground: 210 40% 98%;
+
+    --popover: 215 28% 20%;
+    --popover-foreground: 210 40% 98%;
+
+    --primary: 199 89% 48%;
+    --primary-foreground: 0 0% 100%;
+    --primary-glow: 199 89% 68%;
+
+    --secondary: 174 72% 56%;
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 215 28% 25%;
+    --muted-foreground: 215 20% 65%;
+
+    --accent: 174 72% 56%;
+    --accent-foreground: 0 0% 100%;
+
+    --success: 142 76% 36%;
+    --success-foreground: 0 0% 100%;
+    
+    --warning: 38 92% 50%;
+    --warning-foreground: 0 0% 100%;
+
+    --destructive: 0 62% 51%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 215 28% 25%;
+    --input: 215 28% 25%;
+    --ring: 199 89% 48%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}

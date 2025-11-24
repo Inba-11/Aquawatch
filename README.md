@@ -6,8 +6,5 @@
 Due to water scarcity and rising salinity, everyone faces water quality issues in daily life at home, schools, institutes, and offices.  
 To address this, we implemented a real-time monitoring system using sensors to collect data, store it, and display it on our live dashboard.
 
-<video width="100%" controls poster="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg">
-  <source src="https://username.github.io/repo/assets/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/eed132f5-cd59-4c80-aae6-5dedc02f04b6
 

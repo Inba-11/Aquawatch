@@ -2,3 +2,10 @@
 
 
 [![Video Preview](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://private-user-images.githubusercontent.com/179960882/518010024-eed132f5-cd59-4c80-aae6-5dedc02f04b6.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM5NzM4ODEsIm5iZiI6MTc2Mzk3MzU4MSwicGF0aCI6Ii8xNzk5NjA4ODIvNTE4MDEwMDI0LWVlZDEzMmY1LWNkNTktNGM4MC1hYWU2LTVkZWRjMDJmMDRiNi5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTEyNFQwODM5NDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ODM4MzgwNGE5NzU2YmEyNmU3NDBlYzU2YWVhY2M1MTE1M2YxMDU4NWZiMjFlZTJhZWY5Zjk3MTM0ZTI1ZDAyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdA)
+# AquaWatch Dashboard
+
+- Real-time water quality monitoring and dashboard for tracking key water parameters.
+- Monitor water quality live with intuitive dashboards and alerts.
+- Smart water monitoring system to ensure safe and clean water anytime.
+- Track water parameters in real-time with AquaWatch Dashboard.
+- Visualize and analyze water quality data instantly for informed decisions.
